@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zdcao121
-- 👀 I’m interested in machine learning applied to material science
-- 🌱 I’m currently learning diffusion model, equivariant neural network and uncertainty quantification in machine learning
-- 💞️ I’m looking to collaborate on automated machine learning, machine learning force field developments and graph networks for physical/chemical sciences
+- 👀 I’m interested in machine learning applied to molecule systems (especially proteins)
+- 🌱 I’m currently learning generative model (normalizing flow) and causal representation learning
+- 💞️ I’m looking to collaborate on automated machine learning and diffusion model for physical/chemical sciences
 - 📫 How to reach me : zdcao@iphy.ac.cn
 
 <!---
